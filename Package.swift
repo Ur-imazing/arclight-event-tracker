@@ -24,6 +24,7 @@ let package = Package(
                 .linkedFramework("CoreData"),
                 .linkedFramework("MapKit"),
                 .linkedFramework("CoreLocation"),
+                .linkedFramework("SystemConfiguration"),
             ]
         )
     ]
